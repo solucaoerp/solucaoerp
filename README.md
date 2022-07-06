@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá! :D
 
-<!--
-**solucaoerp/solucaoerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/solucaoerp)](https://github.com/solucaoerp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-bm/)](https://www.linkedin.com/in/charles-bm/)
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou um desenvolvedor {backend e frontend} em constante aprendizado.
+
+- No backend utilizo o ecossistema Spring Framework como provedor para minhas regras de negócio;
+- No frontend utilizo o React;
+
+Fico feliz com sua visita e espero de alguma forma contribuir com a comunidade de desenvolvedores nas tecnologias citadas.
+
+Fiquem a vontade para entrar em contato.
