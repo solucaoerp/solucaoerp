@@ -4,7 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solucaoerp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#
+## 
+
 <div align="center">
   <img align="center" alt="Charles-Linkedin" height="30" width="40" src="https://github.com/solucaoerp/assets/blob/main/svg/linkedin/linkedin-original.svg">
   <img align="center" alt="Charles-Git" height="30" width="40" src="https://github.com/solucaoerp/assets/blob/main/svg/git/git-original.svg">
@@ -17,6 +18,8 @@
   <img align="center" alt="Charles-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Charles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
+
+## 
   
 <div align="center">
 
