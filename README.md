@@ -26,7 +26,8 @@
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
 </div>
-### Olá, eu sou [seu nome]! 👋
+
+Olá, eu sou Charles! 👋
 
 Sou um desenvolvedor Full Stack em constante aprendizado. Atualmente, estou focado em utilizar o ecossistema Spring Framework como provedor para minhas regras de negócio no backend, e React no frontend.
 
