@@ -27,7 +27,7 @@
    
 </div>
 
-Olá, eu sou Charles! 👋
+Olá! 👋
 
 Sou um desenvolvedor Full Stack em constante aprendizado. Atualmente, estou focado em utilizar o ecossistema Spring Framework como provedor para minhas regras de negócio no backend, e React no frontend.
 
@@ -35,4 +35,4 @@ Além disso, gosto de explorar outras tecnologias e linguagens, incluindo Python
 
 Acredito que a colaboração e o compartilhamento de conhecimentos são essenciais para a evolução da comunidade de desenvolvedores. Por isso, sempre tento contribuir com a comunidade e aprender com outros desenvolvedores.
 
-Sinta-se à vontade para entrar em contato comigo para conversar sobre tecnologias, projetos ou qualquer outra coisa que possa ser interessante. Adoro conhecer novas pessoas e aprender com elas! 😊
+Sintam-se à vontade para entrar em contato comigo para conversar sobre tecnologias, projetos ou qualquer outra coisa que possa ser interessante relacionada. Adoro conhecer novas pessoas e aprender com elas! 😊
