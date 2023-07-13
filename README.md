@@ -29,9 +29,11 @@
 
 Olá pessoal! 👋
 
-Atuo como desenvolvedor Full Stack, com um compromisso contínuo de aperfeiçoar minhas habilidades. Atualmente, estou imerso no ecossistema Spring Framework para criar regras de negócio no backend, enquanto uso o React para desenvolver soluções de frontend.
+Sou Engenheiro e Arquiteto de Software atuando como desenvolvedor Full-Stack e com um compromisso contínuo de aperfeiçoar minhas habilidades.
 
-Estou familiarizado com uma gama variada de tecnologias e linguagens, incluindo Python, PHP, Delphi, JavaScript, TypeScript, HTML5, CSS3, C# e Git. Dou grande valor às boas práticas e a uma Arquitetura de Software sólida para fornecer soluções eficientes e escaláveis.
+Atualmente, estou imerso em Java com Ecossistema Spring para criar regras de negócio no backend, enquanto uso o React para desenvolver soluções de frontend.
+
+Estou familiarizado com uma gama variada de tecnologias e linguagens, incluindo Java, Python, PHP, Delphi, JavaScript, TypeScript, HTML5, CSS3, C# e Git. Dou grande valor às boas práticas e a uma Arquitetura de Software sólida para fornecer soluções eficientes e escaláveis.
 
 Acredito que a colaboração e o compartilhamento de conhecimentos são fundamentais para o crescimento e a evolução da comunidade de desenvolvedores. Por isso, sempre busco contribuir com a comunidade e aprender com outros profissionais.
 
