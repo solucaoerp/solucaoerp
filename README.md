@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/solucaoerp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solucaoerp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solucaoerp&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 Skills! <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-bm/)
@@ -40,18 +34,3 @@ Skills! <br>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-<br>
-
-### Olá pessoal! 🖐️
-
-Sou Engenheiro e Arquiteto de Software atuando como desenvolvedor Full-Stack e com um compromisso contínuo de aperfeiçoar minhas habilidades.
-
-Atualmente estou imerso em Java com Ecossistema Spring para criar regras de negócio no backend, enquanto uso o React para desenvolver soluções de frontend.
-
-Estou familiarizado também, com uma gama variada de tecnologias e linguagens, incluindo Java, Python, PHP, Delphi, JavaScript, TypeScript, HTML5, CSS3, C#, Docker, Git, etc. Dou grande valor às boas práticas e a uma Arquitetura de Software sólida para fornecer soluções eficientes e escaláveis.
-
-Acredito que a colaboração e o compartilhamento de conhecimentos são fundamentais para o crescimento e a evolução da comunidade de desenvolvedores. Por isso, sempre busco contribuir com a comunidade e aprender com outros profissionais.
-
-Convido você a entrar em contato para discutir sobre tecnologias, projetos ou quaisquer outros tópicos que acharem interessantes no campo da tecnologia. Tenho prazer em conhecer novas pessoas e aprender com elas. Vamos conectar! 😊
